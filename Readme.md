@@ -1,4 +1,4 @@
-#Tutorial: How To Make API Calls Using Axios and Fetch with Vanilla JS and HTML
+# Tutorial: How To Make API Calls Using Axios and Fetch with Vanilla JS and HTML
 
 - API
 - Axios
